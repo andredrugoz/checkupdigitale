@@ -254,11 +254,11 @@ const Footer = () => {
                                     Copyright &copy; 2022 Made with{" "}
                                     <i className="icofont-heart-alt"></i> By{" "}
                                     <a
-                                        href="https://brtsml.com"
+                                        href="https://checkupdigitale.com"
                                         target="_blank"
                                         rel="noreferrer"
                                     >
-                                        brtsml
+                                        checkupdigitale
                                     </a>
                                     , All Rights Reserved
                                 </p>

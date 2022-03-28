@@ -27,12 +27,12 @@ const Intro = ({ data }) => {
                             ></h2>
                             <Button
                                 classOption="btn btn-lg animated delay1 btn-dark btn-hover-dark me-4 mb-3 mb-sm-0"
-                                text="Get Started"
+                                text="Scopri"
                                 path="/about"
                             />
                             <Button
                                 classOption="btn btn-lg animated delay2 btn-secondary btn-hover-secondary mb-3 mb-sm-0"
-                                text="Book a Meeting"
+                                text="Contattaci"
                                 path="/contact"
                             />
                         </div>

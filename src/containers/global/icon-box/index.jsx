@@ -19,17 +19,15 @@ const IconBoxContainer = ({ classOption }) => {
                         <SectionTitle
                             classOption="title-section"
                             subTitle="FEATURES"
-                            title="We are <span class='text-primary'>different</span> because..."
+                            title="Ci <span class='text-primary'>distinguiamo</span> grazie..."
                             excerptClassOption="mb-10"
-                            excerpt="Pleasure rationally encounter consequences that are extremely
-                            painful. Nor again is there anyone who loves or pursues or
-                            desires to obtain"
+                            excerpt="All'attenta analisi dei nostri clienti e i loro obbiettivi per portare un servizio che soddisfi a pieno i nostri clienti"
                         />
-                        <Button
+                        {/* <Button
                             classOption="btn btn-lg btn-dark btn-hover-dark"
-                            text="Get Started"
+                            text="Scopri"
                             path="/about"
-                        />
+                        /> */}
                     </div>
 
                     <div className="col-12">

@@ -11,10 +11,10 @@ const ServiceListContainer = () => {
                     <div className="col-xl-6 col-lg-8 mx-auto">
                         <SectionTitle
                             classOption="title-section mb-10 pb-10 text-center"
-                            subTitle="services"
-                            title="Check <span class='text-primary'>our</span> Services"
+                            subTitle="Servizi"
+                            title="I <span class='text-primary'>Nostri</span> Servizi"
                             excerptClassOption="null"
-                            excerpt="Pleasure rationally encounter consequences that are <br class='d-none d-xl-block' /> painful. Nor again is there anyone who pursues"
+                            excerpt="Qui sottostante i servizi più richiesti che forniamo quotidianamente<br class='d-none d-xl-block' />. Contattateci per ottenere un servizio custom"
                         />
                     </div>
                 </div>

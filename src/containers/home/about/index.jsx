@@ -24,28 +24,25 @@ const HomeAboutContainer = () => {
                             <SectionTitle
                                 classOption="title-section"
                                 subTitle="ABOUT US"
-                                title="Best 
-                                <span class='text-primary'>
-                                    Digital Agency
-                                </span>
-                                <br className='d-none d-xl-block' />
-                                in the Town"
+                                title="La miglior <span class='text-primary'>
+                                Soluzione</span>
+                            <br className='d-none d-xl-block' />
+                            per le piccole medie imprese"
                             />
                             <span className="date-meta">
-                                Scince 2001 <span className="hr"></span>
+                                Nati nel 2018 <span className="hr"></span>
                             </span>
                             <p className="mb-5">
-                                Pleasure rationally encounter consequences that
-                                are extremely painful. Nor again is there anyone
-                                who loves or pursues or desires to obtain
+                                Checkup Digitale nata come una digital agency si
+                                è distinta nel tempo grazie all&apos; attento
+                                studio del brand
                             </p>
                             <p className="high-light mb-8">
-                                Pleasure rationally encounter consequences that
-                                are extremely painful. Nor again is there
+                                Vogliamo offrire sempre servizi sempre migliori
                             </p>
                             <Button
                                 classOption="btn btn-lg btn-dark btn-hover-dark"
-                                text="Learn more"
+                                text="Scopri"
                                 path="/about"
                             />
                         </div>

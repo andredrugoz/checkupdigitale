@@ -15,17 +15,16 @@ const TeamContainer = ({ classOption }) => {
                             <SectionTitle
                                 classOption="title-section"
                                 subTitle="TEAM"
-                                title="People, <span class='text-primary'>Behind</span> the Screen"
+                                title="Persone, <span class='text-primary'>Dietro</span> lo schermo"
                                 excerptClassOption="mb-5"
-                                excerpt="Pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain"
+                                excerpt="Siamo lieti di presentare il nostro team di professionisti e innovatori del digitale"
                             />
                             <p className="high-light mb-8">
-                                Pleasure rationally encounter consequences that
-                                are extremely painful. Nor again is there
+                                L&apos;innovazione parte dalle persone
                             </p>
                             <Button
                                 classOption="btn btn-lg btn-dark btn-hover-dark"
-                                text="View more"
+                                text="Scoprix"
                                 path="/team"
                             />
                         </div>
