@@ -22,11 +22,11 @@ const MainMenu = () => {
                 <li>
                     <NavLink to="/team">Team</NavLink>
                 </li>
-                <li>
+                {/* <li>
                     <NavLink to={process.env.PUBLIC_URL + "/blog"}>
                         Blog
                     </NavLink>
-                </li>
+                </li> */}
                 <li>
                     <NavLink to={process.env.PUBLIC_URL + "/contact"}>
                         Contatti

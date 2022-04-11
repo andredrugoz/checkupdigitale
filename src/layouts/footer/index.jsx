@@ -20,39 +20,36 @@ const Footer = () => {
                                     classOption="footer-logo mb-9"
                                     image={`${process.env.PUBLIC_URL}/images/logo/logo-footer.png`}
                                 />
-                                <p>
-                                    Pleasure rationally encounter consequences
-                                    that extremely painful. Nor again is there
-                                </p>
+                                <p>Prenditi cura della tua attività digitale</p>
                                 <ul className="footer-social-links">
                                     <li>
                                         <SocialIcon
                                             classOption="footer-social-link"
-                                            path="https://www.facebook.com/"
+                                            path="https://it-it.facebook.com/CheckUpDigitaleOfficial/"
                                             icon="icofont-facebook"
                                         />
                                     </li>
                                     <li>
                                         <SocialIcon
                                             classOption="footer-social-link"
-                                            path="https://www.instagram.com/"
+                                            path="https://www.instagram.com/checkupdigitale/"
                                             icon="icofont-instagram"
                                         />
                                     </li>
                                     <li>
                                         <SocialIcon
                                             classOption="footer-social-link"
-                                            path="https://twitter.com/"
-                                            icon="icofont-twitter"
+                                            path="https://www.linkedin.com/company/check-up-digitale/"
+                                            icon="icofont-linkedin"
                                         />
                                     </li>
-                                    <li>
+                                    {/* <li>
                                         <SocialIcon
                                             classOption="footer-social-link"
                                             path="https://www.whatsapp.com/"
                                             icon="icofont-whatsapp"
                                         />
-                                    </li>
+                                    </li> */}
                                 </ul>
                             </div>
                         </div>
@@ -68,7 +65,7 @@ const Footer = () => {
                                                 "/about"
                                             }
                                         >
-                                            About us
+                                            Chi siamo
                                         </Link>
                                     </li>
                                     <li>
@@ -79,18 +76,7 @@ const Footer = () => {
                                                 "/service"
                                             }
                                         >
-                                            Pricing Plan
-                                        </Link>
-                                    </li>
-                                    <li>
-                                        <Link
-                                            className="footer-link"
-                                            to={
-                                                process.env.PUBLIC_URL +
-                                                "/about"
-                                            }
-                                        >
-                                            Conditions
+                                            Servizi
                                         </Link>
                                     </li>
                                     <li>
@@ -100,7 +86,7 @@ const Footer = () => {
                                                 process.env.PUBLIC_URL + "/blog"
                                             }
                                         >
-                                            Blog Post
+                                            Blog
                                         </Link>
                                     </li>
                                     <li>
@@ -110,7 +96,7 @@ const Footer = () => {
                                                 process.env.PUBLIC_URL + "/team"
                                             }
                                         >
-                                            Our Clients
+                                            Team
                                         </Link>
                                     </li>
                                     <li>
@@ -121,122 +107,43 @@ const Footer = () => {
                                                 "/contact"
                                             }
                                         >
-                                            Contact us
+                                            Contatti
                                         </Link>
                                     </li>
                                 </ul>
                             </div>
                         </div>
-                        <div className="col-lg-2 col-sm-6 mb-7">
-                            <div className="footer-widget">
-                                <h4 className="title">Services</h4>
-                                <ul className="footer-menu">
-                                    <li>
-                                        <Link
-                                            className="footer-link"
-                                            to={
-                                                process.env.PUBLIC_URL +
-                                                `/service-details/2`
-                                            }
-                                        >
-                                            Business Plan
-                                        </Link>
-                                    </li>
-                                    <li>
-                                        <Link
-                                            className="footer-link"
-                                            to={
-                                                process.env.PUBLIC_URL +
-                                                `/service-details/3`
-                                            }
-                                        >
-                                            Creative Strategy
-                                        </Link>
-                                    </li>
-                                    <li>
-                                        <Link
-                                            className="footer-link"
-                                            to={
-                                                process.env.PUBLIC_URL +
-                                                `/service-details/4`
-                                            }
-                                        >
-                                            Branding{" "}
-                                        </Link>
-                                    </li>
-                                    <li>
-                                        <Link
-                                            className="footer-link"
-                                            to={
-                                                process.env.PUBLIC_URL +
-                                                `/service-details/1`
-                                            }
-                                        >
-                                            Digital Solution
-                                        </Link>
-                                    </li>
-                                    <li>
-                                        <Link
-                                            className="footer-link"
-                                            to={
-                                                process.env.PUBLIC_URL +
-                                                `/service-details/5`
-                                            }
-                                        >
-                                            Marketing Policy
-                                        </Link>
-                                    </li>
-                                    <li>
-                                        <Link
-                                            className="footer-link"
-                                            to={
-                                                process.env.PUBLIC_URL +
-                                                `/service-details/6`
-                                            }
-                                        >
-                                            Campaign &amp; PR
-                                        </Link>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
+
                         <div className="col-lg-3 col-sm-6 mb-7">
                             <div className="footer-widget">
                                 <h4 className="title">Contact info</h4>
                                 <p>
-                                    245 Southern Street, Apt. 147 New York, USA
+                                    Via Conca del Naviglio 18, Milano MI, 20123,
+                                    Italia
                                 </p>
                                 <ul className="address">
                                     <li>
                                         <a
                                             className="address-link"
-                                            href="tel:+12354569874"
+                                            href="tel:+393476428424"
                                         >
-                                            +12354 569 874
+                                            +39 347 642 8424
                                         </a>
                                     </li>
                                     <li>
                                         <a
                                             className="address-link"
-                                            href="tel:+98745612398"
+                                            href="mailto:info@checkupdigitale.com"
                                         >
-                                            +98745 612 398
+                                            info@checkupdigitale.com
                                         </a>
                                     </li>
                                     <li>
                                         <a
                                             className="address-link"
-                                            href="mailto:info@example.com"
+                                            href="mailto:info@checkupdigitale.com"
                                         >
-                                            info@example.com
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a
-                                            className="address-link"
-                                            href="mailto:info@example.com"
-                                        >
-                                            www.example.com
+                                            www.checkupdigitale.com
                                         </a>
                                     </li>
                                 </ul>

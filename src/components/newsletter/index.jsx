@@ -20,7 +20,11 @@ const CustomForm = ({ status, message, onValidated }) => {
     };
     return (
         <Fragment>
-            <form className="news-letter-form d-flex">
+            <form
+                className="news-letter-form d-flex"
+                method="POST"
+                action="https://getform.io/f/2665981b-0082-4041-ad17-26e34602614d"
+            >
                 <input
                     id="mc-email"
                     className="form-control"
