@@ -2,19 +2,19 @@
     {
         "id": 1,
         "classOption": "address-list mb-4 mb-xl-10 pb-2",
-        "title": "Office Addres",
-        "info": "245 Southern Street, Apartment no. 174 Central Twon, New Yourk, USA"
+        "title": "Ufficio",
+        "info": "Via Conca del Naviglio 18, Milano MI, 20123, Italia"
     },
     {
         "id": 2,
         "classOption": "address-list mb-4 mb-xl-10 pb-2",
-        "title": "Phone Number",
-        "info": "+12345 678 987 <br /> +98745 612 321"
+        "title": "Telefono",
+        "info": "+39 347 642 8424"
     },
     {
         "id": 3,
         "classOption": "address-list",
-        "title": "Web Address",
-        "info": "info@example.com <br /> www.example.com"
+        "title": "Indirizzi web",
+        "info": "info@checkupdigitale.com <br /> www.checkupdigitale.com"
     }
 ]

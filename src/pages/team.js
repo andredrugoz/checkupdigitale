@@ -16,9 +16,8 @@ const TeamPage = () => {
                 <div className="wrapper">
                     <Header />
                     <PageBanner
-                        title="Our Team"
-                        excerpt="Pleasure rationally encounter consequences <br />
-                        are extremely painful great oppurtunity"
+                        title="Il Nostro Team"
+                        excerpt="Siamo lieti di presentare il nostro team di professionisti e innovatori del digitale"
                         image="./images/team/5.png"
                     />
                     <TeampPageContainer />

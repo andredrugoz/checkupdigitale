@@ -12,13 +12,12 @@ const ContactPage = () => {
     return (
         <React.Fragment>
             <Layout>
-                <SEO title="CheckoutDigitale – Contact" />
+                <SEO title="CheckoutDigitale – Contatti" />
                 <div className="wrapper">
                     <Header />
                     <PageBanner
-                        title="Contact us"
-                        excerpt="Pleasure rationally encounter consequences <br />
-                        are extremely painful great oppurtunity"
+                        title="Contatti"
+                        excerpt="Per qualsiasi informazione o chiarimenti sul tuo checkup digitale non esitare a contattarci"
                         image="./images/contact/1.png"
                     />
                     <ContactContainer />

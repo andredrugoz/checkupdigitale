@@ -26,8 +26,8 @@ const Intro = ({ data }) => {
                                 dangerouslySetInnerHTML={{ __html: data.title }}
                             ></h2>
                             <Button
-                                classOption="btn btn-lg animated delay1 btn-dark btn-hover-dark me-4 mb-3 mb-sm-0"
-                                text="Scopri"
+                                classOption="btn btn-lg animated delay1 btn-primary btn-hover-primary me-4 mb-3 mb-sm-0"
+                                text="Richiedi il tuo Checkup"
                                 path="/about"
                             />
                             <Button

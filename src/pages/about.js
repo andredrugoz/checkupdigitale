@@ -17,20 +17,19 @@ const AboutPage = () => {
     return (
         <React.Fragment>
             <Layout>
-                <SEO title="CheckoutDigitale – About" />
+                <SEO title="CheckoutDigitale – Chi siamo" />
                 <div className="wrapper">
                     <Header />
                     <PageBanner
-                        title="About us"
-                        excerpt="Pleasure rationally encounter consequences <br /> are extremely painful
-                        great oppurtunity"
+                        title="Chi siamo"
+                        excerpt="Scopri le incredibili qualità di checkup digitale e il suo team"
                         image="./images/banner/1.png"
                     />
                     <IconBoxContainer classOption="section-pt" />
-                    <BrandContainer />
+                    {/* <BrandContainer /> */}
                     <AboutContainer />
                     <ServiceListContainer />
-                    <TestimonialReverse />
+                    {/* <TestimonialReverse /> */}
                     <FunFactContainer classOption="mt-0 mt-lg-0" />
                     <NewsletterArea />
                     <Footer />

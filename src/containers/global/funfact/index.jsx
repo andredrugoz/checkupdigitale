@@ -9,7 +9,7 @@ const FunFactContainer = ({ classOption }) => {
             className={`funfact-section section-pb position-relative ${classOption}`}
         >
             <div className="container">
-                <div className="row mb-n7">
+                <div className="row mt-10 pt-10 ">
                     {HomeData[4].funfact &&
                         HomeData[4].funfact.map((single, key) => {
                             return (

@@ -2,49 +2,67 @@
     {
         "id": 1,
         "thumb": "./images/team/1.png",
-        "name": "Cristopher Williams",
+        "name": "Dario",
         "designation": "Head of Idea"
     },
     {
         "id": 2,
-        "thumb": "./images/team/2.png",
-        "name": "Julia Rodrigaze",
-        "designation": "Head of Design"
+        "thumb": "./images/team/3.png",
+        "name": "Samuele",
+        "designation": "CTO"
     },
     {
         "id": 3,
-        "thumb": "./images/team/3.png",
-        "name": "Rebeca Smith",
-        "designation": "Head of HR"
+        "thumb": "./images/team/4.png",
+        "name": "Fabrizio",
+        "designation": "Videomaker"
     },
     {
         "id": 4,
-        "thumb": "./images/team/4.png",
-        "name": "Ricardo Powel",
-        "designation": "Head of Development"
+        "thumb": "./images/team/3.png",
+        "name": "Andrea",
+        "designation": "Development"
     },
     {
         "id": 5,
-        "thumb": "./images/team/6.png",
-        "name": "Martin Crow",
-        "designation": "Head of Account"
+        "thumb": "./images/team/7.png",
+        "name": "Michele",
+        "designation": "Development"
     },
     {
         "id": 6,
-        "thumb": "./images/team/7.png",
-        "name": "Shane Watson",
-        "designation": "Head of Business"
+        "thumb": "./images/team/8.png",
+        "name": "Eleonora",
+        "designation": "Commerciale"
     },
     {
         "id": 7,
         "thumb": "./images/team/8.png",
-        "name": "Ethan Williams",
-        "designation": "Head of Strategy"
+        "name": "Gaetano",
+        "designation": "Grafica"
     },
     {
         "id": 8,
         "thumb": "./images/team/9.png",
-        "name": "Neha Kakker",
-        "designation": "Head of Marketing"
+        "name": "Gil",
+        "designation": "Grafica"
+    },
+    {
+        "id": 9,
+        "thumb": "./images/team/9.png",
+        "name": "Gianmarco",
+        "designation": "Grafica"
+    },
+    {
+        "id": 10,
+        "thumb": "./images/team/9.png",
+        "name": "Filip",
+        "designation": "Influencer"
+    },
+    {
+        "id": 11,
+        "thumb": "./images/team/9.png",
+        "name": "Gil",
+        "designation": "Grafica"
     }
 ]

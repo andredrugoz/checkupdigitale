@@ -24,7 +24,7 @@ const TeamContainer = ({ classOption }) => {
                             </p>
                             <Button
                                 classOption="btn btn-lg btn-dark btn-hover-dark"
-                                text="Scoprix"
+                                text="Scopri"
                                 path="/team"
                             />
                         </div>

@@ -20,16 +20,15 @@ const ServicePage = () => {
                 <div className="wrapper">
                     <Header />
                     <PageBanner
-                        title="Our Services"
-                        excerpt="Pleasure rationally encounter consequences <br />
-                        are extremely painful great oppurtunity"
+                        title="Servizi"
+                        excerpt="Elenchiamo i nostri servizi per presentare il nostro metodo di lavoro, contattaci per avere più informazioni"
                         image="./images/service/2.png"
                     />
                     <ServiceListContainer />
-                    <TestimonialReverse />
+                    {/* <TestimonialReverse /> */}
                     <FunFactContainer classOption="mt-0 mt-lg-0" />
                     <TeamContainer classOption="null" />
-                    <BrandContainer />
+                    {/* <BrandContainer /> */}
                     <NewsletterArea />
                     <Footer />
                     <ScrollToTop />

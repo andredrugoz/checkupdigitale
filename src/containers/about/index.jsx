@@ -23,24 +23,24 @@ const AboutContainer = () => {
                         <div className="about-content">
                             <SectionTitle
                                 classOption="title-section"
-                                subTitle="ABOUT US"
+                                subTitle="CHI SIAMO"
                                 title="La miglior <span class='text-primary'>
                                     Soluzione</span>
                                 <br className='d-none d-xl-block' />
                                 per le piccole medie imprese"
                             />
                             <span className="date-meta">
-                                Scince 2001 <span className="hr"></span>
+                                Scince 2018 <span className="hr"></span>
                             </span>
                             <p className="mb-5">
-                                Pleasure rationally encounter consequences that
-                                are extremely painful. Nor again is there anyone
-                                who loves or pursues or desires to obtain
+                                Checkup Digitale nata come una digital agency si
+                                è distinta nel tempo grazie all&apos; attento
+                                studio del brand
                             </p>
-                            <p className="high-light mb-8">
+                            {/* <p className="high-light mb-8">
                                 Pleasure rationally encounter consequences that
                                 are extremely painful. Nor again is there
-                            </p>
+                            </p> */}
                             <Button
                                 classOption="btn btn-lg btn-dark btn-hover-dark"
                                 text="Learn more"

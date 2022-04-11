@@ -82,23 +82,23 @@
         "funfact": [
             {
                 "id": 1,
-                "number": 1200,
-                "title": "Projects done"
+                "number": 150,
+                "title": "Progetti completati"
             },
             {
                 "id": 2,
-                "number": 2354,
-                "title": "Happy Clients"
+                "number": 12,
+                "title": "Persone nel team"
             },
             {
                 "id": 3,
-                "number": 3299,
-                "title": "Cup Coffee"
+                "number": 4,
+                "title": " Anni di attività "
             },
             {
                 "id": 4,
-                "number": 101,
-                "title": "Award Wins"
+                "number": 26,
+                "title": "Tecnologie utilizzate"
             }
         ]
     },
@@ -107,20 +107,20 @@
             {
                 "id": 1,
                 "thumb": "./images/team/rounded-img1.png",
-                "name": "Cristopher Williams",
+                "name": "Dario",
                 "designation": "Head of Idea"
             },
             {
                 "id": 2,
-                "thumb": "./images/team/rounded-img2.png",
-                "name": "Rebeca Smith",
-                "designation": "Head of HR"
+                "thumb": "./images/team/3.png",
+                "name": "Samuele",
+                "designation": "CTO"
             },
             {
                 "id": 3,
                 "thumb": "./images/team/rounded-img3.png",
-                "name": "Ricardo Powel",
-                "designation": "Head of Development"
+                "name": "Fabrizio",
+                "designation": "Videomaker"
             }
         ]
     }
