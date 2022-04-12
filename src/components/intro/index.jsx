@@ -28,12 +28,12 @@ const Intro = ({ data }) => {
                             <Button
                                 classOption="btn btn-lg animated delay1 btn-primary btn-hover-primary me-4 mb-3 mb-sm-0"
                                 text="Richiedi il tuo Checkup"
-                                path="/about"
+                                path="/contact"
                             />
                             <Button
                                 classOption="btn btn-lg animated delay2 btn-secondary btn-hover-secondary mb-3 mb-sm-0"
-                                text="Contattaci"
-                                path="/contact"
+                                text="Chi siamo"
+                                path="/about"
                             />
                         </div>
                     </div>
