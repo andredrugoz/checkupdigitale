@@ -6,12 +6,12 @@
             "gridImage": "./images/blog/1.png",
             "largeImage": "./images/blog-details/1.png"
         },
-        "title": "Business Development Conferrence 2021",
-        "author": "Adam",
-        "date": "25 September, 2021",
-        "categories": ["Business"],
-        "tags": ["Structure", "React", "Premium", "Clean", "WordPress"],
-        "body": ["<p class='pb-2'>Pleasure rationally encounter consequences that are extremely painful. Nor again there <br class='d-none d-xl-block' /> who loves or pursues or desires to obtain voluptas sit aspernatur aut odit aut fugit, sed <br class='d-none d-xl-block' /> consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro <br class='d-none d-xl-block' /> est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit </p>", "<div class='blog-details-list'><p><i class='fa fa-angle-double-right'></i>Quisquam est qui dolorem ipsum quia dolor sit amet consectetur</p><p><i class='fa fa-angle-double-right'></i>hese cases are perfectly simple and easy todistinguish</p></div>", "<div class='blog-qutation'><p>Pleasure rationally encounter consequences that are extremely painful there who loves or pursues or desires to obtain voluptas sit aspernatur aut odit sed consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt </p><i class='icofont-quote-right'></i></div>", "<div class='blog-details-grid'><div class='row mb-n7'><div class='col mb-7'><p>Pleasure rationally service are extremely are anyone who loves or pursues These cases are perfectly simple and easy to a distinguish. In a free hour, when our power of choice is untrammelled a circumstances and owing to the claims of duty some of the maintain detials for the Business</p></div><div class='col mb-7 text-end'><img class='d-block mx-auto mx-lg-0' src='/images/blog-details/2.png' alt='img' /></div><div class='col-12 mb-7'><p class='pt-2>Pleasure rationally encounter consequences that are extremely painful. Nor again there who loves or pursues or desires to obtain voluptas sit aspernatur aut odit aut fugit, sed consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p></div></div></div>"]
+        "title": "Il nuovo Web3: cos’è, come funziona e le implicazioni di cyber security",
+        "author": "Samuele",
+        "date": "26 Aprile, 2022",
+        "categories": ["Web3"],
+        "tags": ["Intro", "Metaverse", "Web3"],
+        "body": ["<p class=pb-2>Non si tratta di un argomento riciclato o un settaggio del server web, non si tratta della solita trovata pubblicitaria né tantomeno della solita tecnologia “cosmetica” per i siti web: quando parliamo di Web3 stiamo parlando dell’innovativa tecnologia che si affaccia all’orizzonte, una tecnologia che rivoluzionerà completamente il concetto di libertà d’espressione in Internet e l’impossibilità di oscuramento da parte delle autorità che “regolano la navigazione” sulla superficie della “normal web” ovvero la web indicizzata dagli web crawler, spiders o robots.<br class='d-none d-xl-block'>Il Web3 sarà la pubblicazione di un sito web o un identità all’interno di un blocco situato dentro una blockchain, la quale verrà ospitata dentro milioni di “wallet”, impedendo ovviamente la cancellazione, l’oscuramento e impedendo la falsificazione di quel determinato blocco, di quel sito web o contenuto."]
     },
     {
         "id": 2,
@@ -20,12 +20,12 @@
             "gridImage": "images/blog/2.png",
             "largeImage": "./images/blog-details/1.png"
         },
-        "title": "Game Development Conferrence 2021",
-        "author": "Kristina",
-        "date": "20 September, 2021",
-        "categories": ["News"],
-        "tags": ["Structure", "React", "Premium", "Clean", "WordPress"],
-        "body": ["<p class='pb-2'>Pleasure rationally encounter consequences that are extremely painful. Nor again there <br class='d-none d-xl-block' /> who loves or pursues or desires to obtain voluptas sit aspernatur aut odit aut fugit, sed <br class='d-none d-xl-block' /> consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro <br class='d-none d-xl-block' /> est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit </p>", "<div class='blog-details-list'><p><i class='fa fa-angle-double-right'></i>Quisquam est qui dolorem ipsum quia dolor sit amet consectetur</p><p><i class='fa fa-angle-double-right'></i>hese cases are perfectly simple and easy todistinguish</p></div>", "<div class='blog-qutation'><p>Pleasure rationally encounter consequences that are extremely painful there who loves or pursues or desires to obtain voluptas sit aspernatur aut odit sed consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt </p><i class='icofont-quote-right'></i></div>", "<div class='blog-details-grid'><div class='row mb-n7'><div class='col mb-7'><p>Pleasure rationally service are extremely are anyone who loves or pursues These cases are perfectly simple and easy to a distinguish. In a free hour, when our power of choice is untrammelled a circumstances and owing to the claims of duty some of the maintain detials for the Business</p></div><div class='col mb-7 text-end'><img class='d-block mx-auto mx-lg-0' src='/images/blog-details/2.png' alt='img' /></div><div class='col-12 mb-7'><p class='pt-2>Pleasure rationally encounter consequences that are extremely painful. Nor again there who loves or pursues or desires to obtain voluptas sit aspernatur aut odit aut fugit, sed consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p></div></div></div>"]
+        "title": "Perchè usare il 3D nel web per la tua azienda?",
+        "author": "Samuele",
+        "date": "26 Aprile, 2022",
+        "categories": ["Business"],
+        "tags": ["3D", "Web", "Meta"],
+        "body": ["<p class='pb-2'>Il rendering 3D è l’operazione compiuta da un disegnatore per simulare realisticamente un oggetto o un progetto architettonico partendo da un modello 3D. <br class='d-none d-xl-block' />Il 3D rendering è onnipresente oggi nella gran parte dei settori industriali, partendo dalla progettazione architettonica al marketing per le aziende, arrivando al cinema.<br class='d-none d-xl-block' />Un rendering non ha soltanto il compito di rappresentare qualcosa in 3 dimensioni, ma quello di esporre un’idea, un oggetto trasmettendo al cliente le stesse sensazioni che proverebbe se l’oggetto in questione esistesse realmente."]
     },
     {
         "id": 3,
@@ -34,123 +34,11 @@
             "gridImage": "images/blog/3.png",
             "largeImage": "./images/blog-details/1.png"
         },
-        "title": "Apps Development Conferrence 2021",
-        "author": "Ethan",
-        "date": "10 September, 2021",
-        "categories": ["Investment"],
-        "tags": ["Structure", "React", "Premium", "Clean", "WordPress"],
-        "body": ["<p class='pb-2'>Pleasure rationally encounter consequences that are extremely painful. Nor again there <br class='d-none d-xl-block' /> who loves or pursues or desires to obtain voluptas sit aspernatur aut odit aut fugit, sed <br class='d-none d-xl-block' /> consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro <br class='d-none d-xl-block' /> est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit </p>", "<div class='blog-details-list'><p><i class='fa fa-angle-double-right'></i>Quisquam est qui dolorem ipsum quia dolor sit amet consectetur</p><p><i class='fa fa-angle-double-right'></i>hese cases are perfectly simple and easy todistinguish</p></div>", "<div class='blog-qutation'><p>Pleasure rationally encounter consequences that are extremely painful there who loves or pursues or desires to obtain voluptas sit aspernatur aut odit sed consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt </p><i class='icofont-quote-right'></i></div>", "<div class='blog-details-grid'><div class='row mb-n7'><div class='col mb-7'><p>Pleasure rationally service are extremely are anyone who loves or pursues These cases are perfectly simple and easy to a distinguish. In a free hour, when our power of choice is untrammelled a circumstances and owing to the claims of duty some of the maintain detials for the Business</p></div><div class='col mb-7 text-end'><img class='d-block mx-auto mx-lg-0' src='/images/blog-details/2.png' alt='img' /></div><div class='col-12 mb-7'><p class='pt-2>Pleasure rationally encounter consequences that are extremely painful. Nor again there who loves or pursues or desires to obtain voluptas sit aspernatur aut odit aut fugit, sed consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p></div></div></div>"]
-    },
-    {
-        "id": 4,
-        "media": {
-            "rcImage": "./images/blog/post/1.png",
-            "gridImage": "images/blog/4.png",
-            "largeImage": "./images/blog-details/1.png"
-        },
-        "title": "Business Development Conferrence 2021",
-        "author": "Adam",
-        "date": "25 September, 2021",
-        "categories": ["Consultancy"],
-        "tags": ["Structure", "React", "Premium", "Clean", "WordPress"],
-        "body": ["<p class='pb-2'>Pleasure rationally encounter consequences that are extremely painful. Nor again there <br class='d-none d-xl-block' /> who loves or pursues or desires to obtain voluptas sit aspernatur aut odit aut fugit, sed <br class='d-none d-xl-block' /> consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro <br class='d-none d-xl-block' /> est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit </p>", "<div class='blog-details-list'><p><i class='fa fa-angle-double-right'></i>Quisquam est qui dolorem ipsum quia dolor sit amet consectetur</p><p><i class='fa fa-angle-double-right'></i>hese cases are perfectly simple and easy todistinguish</p></div>", "<div class='blog-qutation'><p>Pleasure rationally encounter consequences that are extremely painful there who loves or pursues or desires to obtain voluptas sit aspernatur aut odit sed consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt </p><i class='icofont-quote-right'></i></div>", "<div class='blog-details-grid'><div class='row mb-n7'><div class='col mb-7'><p>Pleasure rationally service are extremely are anyone who loves or pursues These cases are perfectly simple and easy to a distinguish. In a free hour, when our power of choice is untrammelled a circumstances and owing to the claims of duty some of the maintain detials for the Business</p></div><div class='col mb-7 text-end'><img class='d-block mx-auto mx-lg-0' src='/images/blog-details/2.png' alt='img' /></div><div class='col-12 mb-7'><p class='pt-2>Pleasure rationally encounter consequences that are extremely painful. Nor again there who loves or pursues or desires to obtain voluptas sit aspernatur aut odit aut fugit, sed consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p></div></div></div>"]
-    },
-    {
-        "id": 5,
-        "media": {
-            "rcImage": "./images/blog/post/2.png",
-            "gridImage": "images/blog/6.png",
-            "largeImage": "./images/blog-details/1.png"
-        },
-        "title": "Investment Planning for your Business",
-        "author": "Kristina",
-        "date": "20 July, 2021",
-        "categories": ["Marketing"],
-        "tags": ["Structure", "React", "Premium", "Clean", "WordPress"],
-        "body": ["<p class='pb-2'>Pleasure rationally encounter consequences that are extremely painful. Nor again there <br class='d-none d-xl-block' /> who loves or pursues or desires to obtain voluptas sit aspernatur aut odit aut fugit, sed <br class='d-none d-xl-block' /> consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro <br class='d-none d-xl-block' /> est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit </p>", "<div class='blog-details-list'><p><i class='fa fa-angle-double-right'></i>Quisquam est qui dolorem ipsum quia dolor sit amet consectetur</p><p><i class='fa fa-angle-double-right'></i>hese cases are perfectly simple and easy todistinguish</p></div>", "<div class='blog-qutation'><p>Pleasure rationally encounter consequences that are extremely painful there who loves or pursues or desires to obtain voluptas sit aspernatur aut odit sed consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt </p><i class='icofont-quote-right'></i></div>", "<div class='blog-details-grid'><div class='row mb-n7'><div class='col mb-7'><p>Pleasure rationally service are extremely are anyone who loves or pursues These cases are perfectly simple and easy to a distinguish. In a free hour, when our power of choice is untrammelled a circumstances and owing to the claims of duty some of the maintain detials for the Business</p></div><div class='col mb-7 text-end'><img class='d-block mx-auto mx-lg-0' src='/images/blog-details/2.png' alt='img' /></div><div class='col-12 mb-7'><p class='pt-2>Pleasure rationally encounter consequences that are extremely painful. Nor again there who loves or pursues or desires to obtain voluptas sit aspernatur aut odit aut fugit, sed consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p></div></div></div>"]
-    },
-    {
-        "id": 6,
-        "media": {
-            "rcImage": "./images/blog/post/3.png",
-            "gridImage": "images/blog/10.png",
-            "largeImage": "./images/blog-details/1.png"
-        },
-        "title": "Branding playing a great role in Business",
-        "author": "Luice",
-        "date": "13 June, 2021",
-        "categories": ["Branding"],
-        "tags": ["Structure", "React", "Premium", "Clean", "WordPress"],
-        "body": ["<p class='pb-2'>Pleasure rationally encounter consequences that are extremely painful. Nor again there <br class='d-none d-xl-block' /> who loves or pursues or desires to obtain voluptas sit aspernatur aut odit aut fugit, sed <br class='d-none d-xl-block' /> consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro <br class='d-none d-xl-block' /> est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit </p>", "<div class='blog-details-list'><p><i class='fa fa-angle-double-right'></i>Quisquam est qui dolorem ipsum quia dolor sit amet consectetur</p><p><i class='fa fa-angle-double-right'></i>hese cases are perfectly simple and easy todistinguish</p></div>", "<div class='blog-qutation'><p>Pleasure rationally encounter consequences that are extremely painful there who loves or pursues or desires to obtain voluptas sit aspernatur aut odit sed consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt </p><i class='icofont-quote-right'></i></div>", "<div class='blog-details-grid'><div class='row mb-n7'><div class='col mb-7'><p>Pleasure rationally service are extremely are anyone who loves or pursues These cases are perfectly simple and easy to a distinguish. In a free hour, when our power of choice is untrammelled a circumstances and owing to the claims of duty some of the maintain detials for the Business</p></div><div class='col mb-7 text-end'><img class='d-block mx-auto mx-lg-0' src='/images/blog-details/2.png' alt='img' /></div><div class='col-12 mb-7'><p class='pt-2>Pleasure rationally encounter consequences that are extremely painful. Nor again there who loves or pursues or desires to obtain voluptas sit aspernatur aut odit aut fugit, sed consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p></div></div></div>"]
-    },
-    {
-        "id": 7,
-        "media": {
-            "rcImage": "./images/blog/post/1.png",
-            "gridImage": "images/blog/12.png",
-            "largeImage": "./images/blog-details/1.png"
-        },
-        "title": "Business Development Conferrence 2021",
-        "author": "Jack",
-        "date": "13 May, 2021",
-        "categories": ["Campaign & PR"],
-        "tags": ["Structure", "React", "Premium", "Clean", "WordPress"],
-        "body": ["<p class='pb-2'>Pleasure rationally encounter consequences that are extremely painful. Nor again there <br class='d-none d-xl-block' /> who loves or pursues or desires to obtain voluptas sit aspernatur aut odit aut fugit, sed <br class='d-none d-xl-block' /> consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro <br class='d-none d-xl-block' /> est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit </p>", "<div class='blog-details-list'><p><i class='fa fa-angle-double-right'></i>Quisquam est qui dolorem ipsum quia dolor sit amet consectetur</p><p><i class='fa fa-angle-double-right'></i>hese cases are perfectly simple and easy todistinguish</p></div>", "<div class='blog-qutation'><p>Pleasure rationally encounter consequences that are extremely painful there who loves or pursues or desires to obtain voluptas sit aspernatur aut odit sed consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt </p><i class='icofont-quote-right'></i></div>", "<div class='blog-details-grid'><div class='row mb-n7'><div class='col mb-7'><p>Pleasure rationally service are extremely are anyone who loves or pursues These cases are perfectly simple and easy to a distinguish. In a free hour, when our power of choice is untrammelled a circumstances and owing to the claims of duty some of the maintain detials for the Business</p></div><div class='col mb-7 text-end'><img class='d-block mx-auto mx-lg-0' src='/images/blog-details/2.png' alt='img' /></div><div class='col-12 mb-7'><p class='pt-2>Pleasure rationally encounter consequences that are extremely painful. Nor again there who loves or pursues or desires to obtain voluptas sit aspernatur aut odit aut fugit, sed consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p></div></div></div>"]
-    },
-    {
-        "id": 8,
-        "media": {
-            "rcImage": "./images/blog/post/2.png",
-            "gridImage": "images/blog/7.png",
-            "largeImage": "./images/blog-details/1.png"
-        },
-        "title": "New Strategy for new Startup Business",
-        "author": "Ethan",
-        "date": "13 May, 2021",
-        "categories": ["Marketing"],
-        "tags": ["Structure", "React", "Premium", "Clean", "WordPress"],
-        "body": ["<p class='pb-2'>Pleasure rationally encounter consequences that are extremely painful. Nor again there <br class='d-none d-xl-block' /> who loves or pursues or desires to obtain voluptas sit aspernatur aut odit aut fugit, sed <br class='d-none d-xl-block' /> consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro <br class='d-none d-xl-block' /> est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit </p>", "<div class='blog-details-list'><p><i class='fa fa-angle-double-right'></i>Quisquam est qui dolorem ipsum quia dolor sit amet consectetur</p><p><i class='fa fa-angle-double-right'></i>hese cases are perfectly simple and easy todistinguish</p></div>", "<div class='blog-qutation'><p>Pleasure rationally encounter consequences that are extremely painful there who loves or pursues or desires to obtain voluptas sit aspernatur aut odit sed consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt </p><i class='icofont-quote-right'></i></div>", "<div class='blog-details-grid'><div class='row mb-n7'><div class='col mb-7'><p>Pleasure rationally service are extremely are anyone who loves or pursues These cases are perfectly simple and easy to a distinguish. In a free hour, when our power of choice is untrammelled a circumstances and owing to the claims of duty some of the maintain detials for the Business</p></div><div class='col mb-7 text-end'><img class='d-block mx-auto mx-lg-0' src='/images/blog-details/2.png' alt='img' /></div><div class='col-12 mb-7'><p class='pt-2>Pleasure rationally encounter consequences that are extremely painful. Nor again there who loves or pursues or desires to obtain voluptas sit aspernatur aut odit aut fugit, sed consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p></div></div></div>"]
-    },
-    {
-        "id": 9,
-        "media": {
-            "rcImage": "./images/blog/post/3.png",
-            "gridImage": "images/blog/8.png",
-            "largeImage": "./images/blog-details/1.png"
-        },
-        "title": "How to be an successfull Business Entrepreneur",
-        "author": "Gilcrist",
-        "date": "13 June, 2021",
-        "categories": ["Branding"],
-        "tags": ["Structure", "React", "Premium", "Clean", "WordPress"],
-        "body": ["<p class='pb-2'>Pleasure rationally encounter consequences that are extremely painful. Nor again there <br class='d-none d-xl-block' /> who loves or pursues or desires to obtain voluptas sit aspernatur aut odit aut fugit, sed <br class='d-none d-xl-block' /> consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro <br class='d-none d-xl-block' /> est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit </p>", "<div class='blog-details-list'><p><i class='fa fa-angle-double-right'></i>Quisquam est qui dolorem ipsum quia dolor sit amet consectetur</p><p><i class='fa fa-angle-double-right'></i>hese cases are perfectly simple and easy todistinguish</p></div>", "<div class='blog-qutation'><p>Pleasure rationally encounter consequences that are extremely painful there who loves or pursues or desires to obtain voluptas sit aspernatur aut odit sed consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt </p><i class='icofont-quote-right'></i></div>", "<div class='blog-details-grid'><div class='row mb-n7'><div class='col mb-7'><p>Pleasure rationally service are extremely are anyone who loves or pursues These cases are perfectly simple and easy to a distinguish. In a free hour, when our power of choice is untrammelled a circumstances and owing to the claims of duty some of the maintain detials for the Business</p></div><div class='col mb-7 text-end'><img class='d-block mx-auto mx-lg-0' src='/images/blog-details/2.png' alt='img' /></div><div class='col-12 mb-7'><p class='pt-2>Pleasure rationally encounter consequences that are extremely painful. Nor again there who loves or pursues or desires to obtain voluptas sit aspernatur aut odit aut fugit, sed consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p></div></div></div>"]
-    },
-    {
-        "id": 10,
-        "media": {
-            "rcImage": "./images/blog/post/1.png",
-            "gridImage": "images/blog/11.png",
-            "largeImage": "./images/blog-details/1.png"
-        },
-        "title": "Business Development Conferrence 2021",
-        "author": "Michel",
-        "date": "10 September, 2021",
-        "categories": ["Business"],
-        "tags": ["Structure", "React", "Premium", "Clean", "WordPress"],
-        "body": ["<p class='pb-2'>Pleasure rationally encounter consequences that are extremely painful. Nor again there <br class='d-none d-xl-block' /> who loves or pursues or desires to obtain voluptas sit aspernatur aut odit aut fugit, sed <br class='d-none d-xl-block' /> consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro <br class='d-none d-xl-block' /> est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit </p>", "<div class='blog-details-list'><p><i class='fa fa-angle-double-right'></i>Quisquam est qui dolorem ipsum quia dolor sit amet consectetur</p><p><i class='fa fa-angle-double-right'></i>hese cases are perfectly simple and easy todistinguish</p></div>", "<div class='blog-qutation'><p>Pleasure rationally encounter consequences that are extremely painful there who loves or pursues or desires to obtain voluptas sit aspernatur aut odit sed consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt </p><i class='icofont-quote-right'></i></div>", "<div class='blog-details-grid'><div class='row mb-n7'><div class='col mb-7'><p>Pleasure rationally service are extremely are anyone who loves or pursues These cases are perfectly simple and easy to a distinguish. In a free hour, when our power of choice is untrammelled a circumstances and owing to the claims of duty some of the maintain detials for the Business</p></div><div class='col mb-7 text-end'><img class='d-block mx-auto mx-lg-0' src='/images/blog-details/2.png' alt='img' /></div><div class='col-12 mb-7'><p class='pt-2>Pleasure rationally encounter consequences that are extremely painful. Nor again there who loves or pursues or desires to obtain voluptas sit aspernatur aut odit aut fugit, sed consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p></div></div></div>"]
-    },
-    {
-        "id": 11,
-        "media": {
-            "rcImage": "./images/blog/post/2.png",
-            "gridImage": "images/blog/9.png",
-            "largeImage": "./images/blog-details/1.png"
-        },
-        "title": "Importance of Campaign and PR for Business",
-        "author": "Smith",
-        "date": "08 September, 2021",
-        "categories": ["Campaign & PR"],
-        "tags": ["Structure", "React", "Premium", "Clean", "WordPress"],
-        "body": ["<p class='pb-2'>Pleasure rationally encounter consequences that are extremely painful. Nor again there <br class='d-none d-xl-block' /> who loves or pursues or desires to obtain voluptas sit aspernatur aut odit aut fugit, sed <br class='d-none d-xl-block' /> consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro <br class='d-none d-xl-block' /> est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit </p>", "<div class='blog-details-list'><p><i class='fa fa-angle-double-right'></i>Quisquam est qui dolorem ipsum quia dolor sit amet consectetur</p><p><i class='fa fa-angle-double-right'></i>hese cases are perfectly simple and easy todistinguish</p></div>", "<div class='blog-qutation'><p>Pleasure rationally encounter consequences that are extremely painful there who loves or pursues or desires to obtain voluptas sit aspernatur aut odit sed consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt </p><i class='icofont-quote-right'></i></div>", "<div class='blog-details-grid'><div class='row mb-n7'><div class='col mb-7'><p>Pleasure rationally service are extremely are anyone who loves or pursues These cases are perfectly simple and easy to a distinguish. In a free hour, when our power of choice is untrammelled a circumstances and owing to the claims of duty some of the maintain detials for the Business</p></div><div class='col mb-7 text-end'><img class='d-block mx-auto mx-lg-0' src='/images/blog-details/2.png' alt='img' /></div><div class='col-12 mb-7'><p class='pt-2>Pleasure rationally encounter consequences that are extremely painful. Nor again there who loves or pursues or desires to obtain voluptas sit aspernatur aut odit aut fugit, sed consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p></div></div></div>"]
+        "title": "Usa WordPress come un CMS senza testa",
+        "author": "Samuele",
+        "date": "26 Aprile, 2026",
+        "categories": ["Wordpress"],
+        "tags": ["Intro", "React", "WordPress"],
+        "body": ["<p class='pb-2'>Ho sentito per la prima volta dell'approccio CMS senza testa in un discorso che ho visto da Twin Cities Drupal. Mi è piaciuta l'idea di una separazione delle preoccupazioni tra il contenuto di creazione e la visualizzarlo. <br class='d-none d-xl-block' /> Grazie all'ausilio di Frontity si può creare un frontend per il Wordpress in reactJS<br class='d-none d-xl-block' />Questa pratica porta notevoli vantaggi, la semplicita di gestione di un CMS come WP e la velocità di sviluppo che consente React.<br class='d-none d-xl-block' /> </p>", "<div class='blog-details-list'><p><i class='fa fa-angle-double-right'></i>Frontity</p><p><i class='fa fa-angle-double-right'></i>Heroku</p></div>", "<div class='blog-qutation'><p>Con poche tecnologie si può rivoluzionare l'esperienza utente e del cliente</p><i class='icofont-quote-right'></i></div>"]
     }
 ]

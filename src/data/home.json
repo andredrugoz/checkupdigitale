@@ -112,15 +112,15 @@
             },
             {
                 "id": 2,
-                "thumb": "./images/team/3.png",
-                "name": "Samuele",
-                "designation": "CTO"
+                "thumb": "./images/team/rounded-img3.png",
+                "name": "Andrea",
+                "designation": "Development"
             },
             {
                 "id": 3,
-                "thumb": "./images/team/rounded-img3.png",
-                "name": "Fabrizio",
-                "designation": "Videomaker"
+                "thumb": "./images/team/3.png",
+                "name": "Samuele",
+                "designation": "CTO"
             }
         ]
     }

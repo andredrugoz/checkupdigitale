@@ -1,5 +1,5 @@
 import PropTypes from "prop-types";
-import { Link } from "react-router-dom";
+// import { Link } from "react-router-dom";
 
 const IconBox = ({ data }) => {
     return (
@@ -13,9 +13,7 @@ const IconBox = ({ data }) => {
                     alt=" feature logo"
                 />
                 <h4 className="title my-6">
-                    <Link to={process.env.PUBLIC_URL + "/service-details/1"}>
-                        {data.title}
-                    </Link>
+                    <p>{data.title}</p>
                 </h4>
                 <p>{data.excerpt}</p>
             </div>

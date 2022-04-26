@@ -8,20 +8,20 @@
     {
         "id": 2,
         "thumb": "./images/team/3.png",
+        "name": "Andrea",
+        "designation": "Development"
+    },
+    {
+        "id": 3,
+        "thumb": "./images/team/3.png",
         "name": "Samuele",
         "designation": "CTO"
     },
     {
-        "id": 3,
+        "id": 4,
         "thumb": "./images/team/4.png",
         "name": "Fabrizio",
         "designation": "Videomaker"
-    },
-    {
-        "id": 4,
-        "thumb": "./images/team/3.png",
-        "name": "Andrea",
-        "designation": "Development"
     },
     {
         "id": 5,

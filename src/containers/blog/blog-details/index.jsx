@@ -20,15 +20,8 @@ const BlogDetailsContainer = ({ data }) => {
                             <BlogDetailsWrap data={data} />
                             <div className="blog-comments ">
                                 <h3 className="blog-comment-title">
-                                    Leave a Reply or Comment
+                                    Lascia una risposta o un commento
                                 </h3>
-                                <p>
-                                    Top rated construction packages we pleasure
-                                    rationally encounter consequences
-                                    interesting who loves or pursue or desires
-                                    to obtain These cases are perfectly simple
-                                    and easy
-                                </p>
                             </div>
 
                             <Comment
