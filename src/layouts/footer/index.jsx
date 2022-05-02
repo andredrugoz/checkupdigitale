@@ -110,6 +110,14 @@ const Footer = () => {
                                             Contatti
                                         </Link>
                                     </li>
+                                    <li>
+                                        <Link
+                                            className="footer-link"
+                                            to={process.env.PUBLIC_URL + "/tos"}
+                                        >
+                                            Termini e Condizioni
+                                        </Link>
+                                    </li>
                                 </ul>
                             </div>
                         </div>

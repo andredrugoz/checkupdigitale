@@ -13,7 +13,7 @@
     },
     {
         "id": 3,
-        "thumb": "./images/team/3.png",
+        "thumb": "./images/team/4.png",
         "name": "Samuele",
         "designation": "CTO"
     },
@@ -25,43 +25,43 @@
     },
     {
         "id": 5,
-        "thumb": "./images/team/7.png",
+        "thumb": "./images/team/3.png",
         "name": "Michele",
         "designation": "Development"
     },
     {
         "id": 6,
-        "thumb": "./images/team/8.png",
+        "thumb": "./images/team/2.png",
         "name": "Eleonora",
         "designation": "Commerciale"
     },
     {
         "id": 7,
-        "thumb": "./images/team/8.png",
+        "thumb": "./images/team/4.png",
         "name": "Gaetano",
         "designation": "Grafica"
     },
     {
         "id": 8,
-        "thumb": "./images/team/9.png",
+        "thumb": "./images/team/4.png",
         "name": "Gil",
         "designation": "Grafica"
     },
     {
         "id": 9,
-        "thumb": "./images/team/9.png",
+        "thumb": "./images/team/3.png",
         "name": "Gianmarco",
         "designation": "Grafica"
     },
     {
         "id": 10,
-        "thumb": "./images/team/9.png",
+        "thumb": "./images/team/4.png",
         "name": "Filip",
         "designation": "Influencer"
     },
     {
         "id": 11,
-        "thumb": "./images/team/9.png",
+        "thumb": "./images/team/4.png",
         "name": "Gil",
         "designation": "Grafica"
     }

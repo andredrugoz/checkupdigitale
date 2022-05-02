@@ -7,6 +7,7 @@ import ServiceDetails from "./templates/service-details";
 import TeamPage from "./pages/team";
 import FaqPage from "./pages/faq";
 import BlogPage from "./pages/blog";
+import Tos from "./pages/tos";
 import BlogLeftSidebarPage from "./pages/blog-left-sidebar";
 import BlogRightSidebarPage from "./pages/blog-right-sidebar";
 import BlogDetailsPage from "./templates/blog-details";
@@ -43,9 +44,8 @@ const App = () => {
                         component={ServicePage}
                     />
                     <Route
-                        path={`${
-                            process.env.PUBLIC_URL + "/service-details/:id"
-                        }`}
+                        path={`
+                        ${process.env.PUBLIC_URL + "/service-details/:id"}`}
                         component={ServiceDetails}
                     />
                     <Route
@@ -65,15 +65,17 @@ const App = () => {
                         component={BlogPage}
                     />
                     <Route
-                        path={`${
-                            process.env.PUBLIC_URL + "/blog-left-sidebar"
-                        }`}
+                        path={`${process.env.PUBLIC_URL + "/tos"}`}
+                        component={Tos}
+                    />
+                    <Route
+                        path={`
+                        ${process.env.PUBLIC_URL + "/blog-left-sidebar"}`}
                         component={BlogLeftSidebarPage}
                     />
                     <Route
-                        path={`${
-                            process.env.PUBLIC_URL + "/blog-right-sidebar"
-                        }`}
+                        path={`
+                        ${process.env.PUBLIC_URL + "/blog-right-sidebar"}`}
                         component={BlogRightSidebarPage}
                     />
                     <Route
