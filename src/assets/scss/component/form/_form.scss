@@ -35,3 +35,28 @@ textarea {
     }
   }
 }
+
+#goals {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+#goals input[type="checkbox"] {
+  display: none;
+}
+
+#goals span {
+  display: inline-block;
+  padding: 10px;
+  text-transform: uppercase;
+  border: 2px solid $primary;
+  border-radius: 1rem;
+  color: $primary;
+  cursor: pointer;
+}
+
+#goals input[type="checkbox"]:checked + span {
+  background-color: $primary;
+  color: #fff;
+}

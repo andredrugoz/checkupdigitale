@@ -25,14 +25,19 @@ const Intro = ({ data }) => {
                                 className="title animated"
                                 dangerouslySetInnerHTML={{ __html: data.title }}
                             ></h2>
-                            <a
+                            {/* <a
                                 href="https://docs.google.com/forms/d/e/1FAIpQLScVdUNDhQf6KcSMb8sI6ZZWN_vAxzgPd1aENlX7Im8rA1Ozbg/viewform?usp=sf_link"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="btn btn-lg animated delay1 btn-primary btn-hover-primary me-4 mb-3 mb-sm-0"
                             >
                                 Richiedi il tuo Checkup
-                            </a>
+                            </a> */}
+                            <Button
+                                classOption="btn btn-lg animated delay1 btn-primary btn-hover-primary me-4 mb-3 mb-sm-0"
+                                text="Richiedi il tuo Checkup"
+                                path="/checkup"
+                            />
                             <Button
                                 classOption="btn btn-lg animated delay2 btn-secondary btn-hover-secondary mb-3 mb-sm-0"
                                 text="Chi siamo"

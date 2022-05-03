@@ -18,7 +18,7 @@ const TeamPage = () => {
                     <PageBanner
                         title="Il Nostro Team"
                         excerpt="Siamo lieti di presentare il nostro team di professionisti e innovatori del digitale"
-                        image="./images/team/5.png"
+                        image="./images/team/team.png"
                     />
                     <TeampPageContainer />
                     <NewsletterArea />

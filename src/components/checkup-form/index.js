@@ -1,14 +1,14 @@
 import React, { Fragment } from "react";
 import { useForm } from "react-hook-form";
 
-const ContactForm = () => {
+const CheckupForm = () => {
     const { register, errors } = useForm({
         mode: "onBlur",
     });
     return (
         <Fragment>
             <form
-                id="contactForm"
+                id="CheckupForm"
                 className="row"
                 action="https://getform.io/f/2665981b-0082-4041-ad17-26e34602614d"
                 method="POST"
@@ -17,13 +17,15 @@ const ContactForm = () => {
                     <input
                         type="text"
                         className="form-control"
-                        id="name"
-                        name="name"
-                        placeholder="Nome*"
-                        ref={register({ required: "Inserisci il nome" })}
+                        id="piva"
+                        name="piva"
+                        placeholder="P.IVA*"
+                        ref={register({
+                            required: "Inserire una p.iva valida",
+                        })}
                         required
                     />
-                    {errors.name && <p>{errors.name.message}</p>}
+                    {errors.piva && <p>{errors.piva.message}</p>}
                 </div>
                 <div className="col-12 col-sm-6 mb-7">
                     <input
@@ -62,19 +64,49 @@ const ContactForm = () => {
                     {errors.phone && <p>{errors.phone.message}</p>}
                 </div>
                 <div className="col-12 mb-9">
+                    <input
+                        type="text"
+                        className="form-control"
+                        id="sitoweb"
+                        name="sitoweb"
+                        placeholder="Sito web*"
+                        ref={register({
+                            required: "Inserire un sitoweb",
+                            pattern: {
+                                message: "Inserisci un numero valido",
+                            },
+                        })}
+                        required
+                    />
+                    {errors.sitoweb && <p>{errors.sitoweb.message}</p>}
+                </div>
+                <div className="col-12 mb-9">
+                    <h5>Seleziona il tuo obbiettivo</h5>
+                    <div id="goals">
+                        <label>
+                            <input type="checkbox" name="work_days" value="1" />
+                            <span>Aumentare le vendite</span>
+                        </label>
+                        <label>
+                            <input type="checkbox" name="work_days" value="2" />
+                            <span>Migliorare il mio brand</span>
+                        </label>
+                    </div>
+                </div>
+                <div className="col-12 mb-9">
                     <textarea
                         className="form-control massage-control"
-                        name="message"
-                        id="massage"
+                        name="social"
+                        id="social"
                         cols="30"
                         rows="10"
-                        placeholder="Messaggio"
+                        placeholder="Inserire i link dei social utilizzati"
                         ref={register({
-                            required: "Il messaggio è richiesto",
+                            required: "Inserire almeno un link di un social",
                         })}
                         required
                     ></textarea>
-                    {errors.message && <p>{errors.message.message}</p>}
+                    {errors.social && <p>{errors.social.social}</p>}
                 </div>
                 <div className="col-12">
                     <button
@@ -91,4 +123,4 @@ const ContactForm = () => {
     );
 };
 
-export default ContactForm;
+export default CheckupForm;

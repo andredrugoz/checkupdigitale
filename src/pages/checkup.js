@@ -1,8 +1,8 @@
 import React from "react";
 import ScrollToTop from "../components/scroll-to-top";
 import SEO from "../components/seo";
-import ContactContainer from "../containers/contact";
-import NewsletterArea from "../containers/global/newsletter";
+import CheckupForm from "../components/checkup-form";
+// import NewsletterArea from "../containers/global/newsletter";
 import PageBanner from "../containers/global/page-banner";
 import Footer from "../layouts/footer";
 import Header from "../layouts/header";
@@ -21,8 +21,10 @@ const CheckupPage = () => {
                         per ricevere il tuo checkup digitale"
                         image="./images/contact/1.png"
                     />
-                    <ContactContainer />
-                    <NewsletterArea />
+                    <div className="container mt-5 pt-5">
+                        <CheckupForm />
+                    </div>
+                    {/* <NewsletterArea /> */}
                     <Footer />
                     <ScrollToTop />
                 </div>
