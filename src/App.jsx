@@ -8,6 +8,7 @@ import TeamPage from "./pages/team";
 import FaqPage from "./pages/faq";
 import BlogPage from "./pages/blog";
 import Tos from "./pages/tos";
+import CheckupPage from "./pages/checkup";
 import BlogLeftSidebarPage from "./pages/blog-left-sidebar";
 import BlogRightSidebarPage from "./pages/blog-right-sidebar";
 import BlogDetailsPage from "./templates/blog-details";
@@ -67,6 +68,10 @@ const App = () => {
                     <Route
                         path={`${process.env.PUBLIC_URL + "/tos"}`}
                         component={Tos}
+                    />
+                    <Route
+                        path={`${process.env.PUBLIC_URL + "/checkup"}`}
+                        component={CheckupPage}
                     />
                     <Route
                         path={`

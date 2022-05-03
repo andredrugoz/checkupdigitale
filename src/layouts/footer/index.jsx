@@ -113,6 +113,17 @@ const Footer = () => {
                                     <li>
                                         <Link
                                             className="footer-link"
+                                            to={
+                                                process.env.PUBLIC_URL +
+                                                "/checkup"
+                                            }
+                                        >
+                                            Richiedi un Checkup
+                                        </Link>
+                                    </li>
+                                    <li>
+                                        <Link
+                                            className="footer-link"
                                             to={process.env.PUBLIC_URL + "/tos"}
                                         >
                                             Termini e Condizioni
