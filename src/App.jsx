@@ -17,6 +17,7 @@ import BlogDate from "./templates/blog-date";
 import BlogTag from "./templates/blog-tag";
 import BlogCategory from "./templates/blog-category";
 import ContactPage from "./pages/contact";
+import AnimatedCursor from "react-animated-cursor";
 import "swiper/components/navigation/navigation.scss";
 import "swiper/swiper.scss";
 import "./assets/css/vendor/metropolis.css";
@@ -29,6 +30,8 @@ import "./assets/scss/style.scss";
 const App = () => {
     return (
         <Router>
+            <AnimatedCursor color="47, 106, 177" />
+
             <NavScrollTop>
                 <Switch>
                     <Route
