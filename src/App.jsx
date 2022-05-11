@@ -11,6 +11,7 @@ import Tos from "./pages/tos";
 import CheckupPage from "./pages/checkup";
 import BlogLeftSidebarPage from "./pages/blog-left-sidebar";
 import BlogRightSidebarPage from "./pages/blog-right-sidebar";
+import Nothing from "./pages/nothing";
 import BlogDetailsPage from "./templates/blog-details";
 import BlogAuthor from "./templates/blog-author";
 import BlogDate from "./templates/blog-date";
@@ -106,6 +107,7 @@ const App = () => {
                         path={`${process.env.PUBLIC_URL + "/category/:slug"}`}
                         component={BlogCategory}
                     />
+                    <Route path={`*`} component={Nothing} />
                 </Switch>
             </NavScrollTop>
         </Router>
