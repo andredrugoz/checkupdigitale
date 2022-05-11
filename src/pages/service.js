@@ -16,7 +16,7 @@ const ServicePage = () => {
     return (
         <React.Fragment>
             <Layout>
-                <SEO title="CheckoutDigitale – Service" />
+                <SEO title="CheckupDigitale – Service" />
                 <div className="wrapper">
                     <Header />
                     <PageBanner

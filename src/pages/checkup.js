@@ -12,7 +12,7 @@ const CheckupPage = () => {
     return (
         <React.Fragment>
             <Layout>
-                <SEO title="CheckoutDigitale – Contatti" />
+                <SEO title="CheckupDigitale – Contatti" />
                 <div className="wrapper">
                     <Header />
                     <PageBanner

@@ -20,7 +20,7 @@ const BlogDetailsPage = ({
     return (
         <React.Fragment>
             <Layout>
-                <SEO title="CheckoutDigitale – Blog Details" />
+                <SEO title="CheckupDigitale – Blog Details" />
                 <div className="wrapper">
                     <Header />
                     {/* <PageBanner

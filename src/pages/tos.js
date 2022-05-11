@@ -11,7 +11,7 @@ const Tos = () => {
         // prettier-ignore
         <React.Fragment>
             <Layout>
-                <SEO title="CheckoutDigitale – Tos" />
+                <SEO title="CheckupDigitale – Tos" />
                 <div className="wrapper">
                     <Header />
                     <PageBanner

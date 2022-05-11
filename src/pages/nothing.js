@@ -5,7 +5,7 @@ import SEO from "../components/seo";
 export default function Nothing() {
     return (
         <>
-            <SEO title="CheckoutDigitale – Pagina non trovata" />
+            <SEO title="CheckupDigitale – Pagina non trovata" />
             <Header />
 
             <div className="help-container">

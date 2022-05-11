@@ -14,7 +14,7 @@ const AboutPage = () => {
     return (
         <React.Fragment>
             <Layout>
-                <SEO title="CheckoutDigitale – Chi siamo" />
+                <SEO title="CheckupDigitale – Chi siamo" />
                 <div className="wrapper">
                     <Header />
                     <PageBanner

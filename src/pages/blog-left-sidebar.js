@@ -13,7 +13,7 @@ const BlogLeftSidebarPage = () => {
     return (
         <React.Fragment>
             <Layout>
-                <SEO title="CheckoutDigitale – Blog Left Sidebar" />
+                <SEO title="CheckupDigitale – Blog Left Sidebar" />
                 <div className="wrapper">
                     <Header />
                     <PageBanner

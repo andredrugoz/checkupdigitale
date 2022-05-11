@@ -20,7 +20,7 @@ const ServiceDetails = ({
     return (
         <React.Fragment>
             <Layout>
-                <SEO title="CheckoutDigitale – Service Details" />
+                <SEO title="CheckupDigitale – Service Details" />
                 <div className="wrapper">
                     <Header />
                     <PageBanner

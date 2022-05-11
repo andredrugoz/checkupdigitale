@@ -21,7 +21,7 @@ const BlogAuthor = ({
     return (
         <React.Fragment>
             <Layout>
-                <SEO title="CheckoutDigitale – Blog Author" />
+                <SEO title="CheckupDigitale – Blog Author" />
                 <div className="wrapper">
                     <Header />
                     <PageBanner

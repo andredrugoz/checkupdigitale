@@ -12,7 +12,7 @@ const FaqPage = () => {
     return (
         <React.Fragment>
             <Layout>
-                <SEO title="CheckoutDigitale – Faq" />
+                <SEO title="CheckupDigitale – Faq" />
                 <div className="wrapper">
                     <Header />
                     <PageBanner
