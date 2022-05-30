@@ -10,7 +10,7 @@ const SEO = ({ title }) => {
             <meta name="robots" content="follow" />
             <meta
                 name="description"
-                content="Hope – Health &amp; Medical React JS Template"
+                content="Avvia un Check Up Digitale per la tua attività. Scopri le potenzialità di miglioramento della tua attività con Checkupdigitale!"
             />
             <meta
                 name="viewport"

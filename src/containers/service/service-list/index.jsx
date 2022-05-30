@@ -36,6 +36,8 @@ const ServiceListContainer = () => {
                             <img
                                 src={`${process.env.PUBLIC_URL}/images/service/media.png`}
                                 alt="images_not_found"
+                                width="auto"
+                                height="auto"
                             />
                         </div>
                     </div>

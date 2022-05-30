@@ -21,7 +21,12 @@ const PageBannerImage = ({ image }) => {
             ref={sceneEl}
         >
             <div data-depth="0.2">
-                <img src={process.env.PUBLIC_URL + image} alt="img" />
+                <img
+                    src={process.env.PUBLIC_URL + image}
+                    alt="img"
+                    width="auto"
+                    height="auto"
+                />
             </div>
         </div>
     );

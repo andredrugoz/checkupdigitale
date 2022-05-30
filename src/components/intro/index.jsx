@@ -56,6 +56,8 @@ const Intro = ({ data }) => {
                                     className="animated"
                                     src={`${process.env.PUBLIC_URL}/${data.image}`}
                                     alt=""
+                                    width={"auto"}
+                                    height={"auto"}
                                 />
                             </div>
                         </div>
