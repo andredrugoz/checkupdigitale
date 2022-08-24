@@ -18,7 +18,7 @@ const HomePage = () => {
     return (
         <React.Fragment>
             <Layout>
-                <SEO title="CheckupDigitale – Digital Agency for Web3" />
+                <SEO title="Checkup Digitale – Digital Agency for Web3" />
                 <div className="wrapper">
                     <Header />
                     <IntroContainer />
