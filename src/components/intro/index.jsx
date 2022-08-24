@@ -21,10 +21,10 @@ const Intro = ({ data }) => {
                 <div className="row align-items-center">
                     <div className="col-lg-6">
                         <div className="hero-slide-content">
-                            <h2
+                            <h1
                                 className="title animated"
                                 dangerouslySetInnerHTML={{ __html: data.title }}
-                            ></h2>
+                            ></h1>
                             {/* <a
                                 href="https://docs.google.com/forms/d/e/1FAIpQLScVdUNDhQf6KcSMb8sI6ZZWN_vAxzgPd1aENlX7Im8rA1Ozbg/viewform?usp=sf_link"
                                 target="_blank"
