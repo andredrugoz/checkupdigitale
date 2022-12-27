@@ -9,22 +9,16 @@
         "id": 2,
         "thumb": "./images/team/3.png",
         "name": "Andrea",
-        "designation": "PMO"
-    },
-    {
-        "id": 3,
-        "thumb": "./images/team/4.png",
-        "name": "Samuele",
         "designation": "CTO"
     },
     {
-        "id": 4,
+        "id": 3,
         "thumb": "./images/team/5.png",
         "name": "Fabrizio",
         "designation": "Videomaker"
     },
     {
-        "id": 5,
+        "id": 4,
         "thumb": "./images/team/6.png",
         "name": "Michele",
         "designation": "Development"
