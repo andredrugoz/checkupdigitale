@@ -114,13 +114,13 @@
                 "id": 2,
                 "thumb": "./images/team/rounded-img3.png",
                 "name": "Andrea",
-                "designation": "PMO"
+                "designation": "CTO"
             },
             {
                 "id": 3,
-                "thumb": "./images/team/rounded-img2.png",
-                "name": "Samuele",
-                "designation": "CTO"
+                "thumb": "./images/team/rounded-img5.png",
+                "name": "Fabrizio",
+                "designation": "Videomaker"
             }
         ]
     }
