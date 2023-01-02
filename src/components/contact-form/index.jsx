@@ -13,6 +13,7 @@ const ContactForm = () => {
                 action="https://getform.io/f/b2fc9957-7cc6-4878-85f4-acbd91bf6653"
                 method="POST"
             >
+                <input type="hidden" name="_gotcha" style="display:none !important"></input>
                 <div className="col-12 col-sm-6 mb-7">
                     <input
                         type="text"
