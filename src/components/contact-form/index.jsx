@@ -10,7 +10,7 @@ const ContactForm = () => {
             <form
                 id="contactForm"
                 className="row"
-                action="https://getform.io/f/2665981b-0082-4041-ad17-26e34602614d"
+                action="https://getform.io/f/b2fc9957-7cc6-4878-85f4-acbd91bf6653"
                 method="POST"
             >
                 <div className="col-12 col-sm-6 mb-7">
