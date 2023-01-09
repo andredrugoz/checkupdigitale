@@ -19,9 +19,9 @@ const CheckupForm = () => {
                         className="form-control"
                         id="piva"
                         name="piva"
-                        placeholder="P.IVA*"
+                        placeholder="Partita.IVA*"
                         ref={register({
-                            required: "Inserire una p.iva valida!",
+                            required: "Inserire una p.iva valida",
                         })}
                         required
                     />
