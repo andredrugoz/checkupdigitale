@@ -16,7 +16,8 @@ const ContactForm = () => {
                 <input
                     type="hidden"
                     className="_gotcha"
-                    style="display:none !important" />
+                    style={{ display: "none!important;" }}
+                />
                 <div className="col-12 col-sm-6 mb-7">
                     <input
                         type="text"
