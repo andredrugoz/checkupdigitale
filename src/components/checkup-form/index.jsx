@@ -19,7 +19,7 @@ const CheckupForm = () => {
                         className="form-control"
                         id="piva"
                         name="piva"
-                        placeholder="Partita.IVA*"
+                        placeholder="P.IVA*"
                         ref={register({
                             required: "Inserire una p.iva valida",
                         })}
