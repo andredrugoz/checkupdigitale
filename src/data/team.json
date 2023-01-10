@@ -13,7 +13,7 @@
     },
     {
         "id": 3,
-        "thumb": "./images/team/4.png",
+        "thumb": "./images/team/3.png",
         "name": "Leonardo",
         "designation": "Videomaker"
     },
@@ -31,7 +31,7 @@
     },
     {
         "id": 7,
-        "thumb": "./images/team/3.png",
+        "thumb": "./images/team/4.png",
         "name": "Gaetano",
         "designation": "Grafica"
     },
