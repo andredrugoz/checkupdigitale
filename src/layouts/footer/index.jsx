@@ -4,6 +4,8 @@ import Logo from "../../components/logo";
 import SocialIcon from "../../components/social-icon";
 
 const Footer = () => {
+    const today = new Date();
+    const year = today.getFullYear();
     return (
         <footer className="footer-section">
             <div className="footer-top position-relative">
@@ -177,7 +179,7 @@ const Footer = () => {
                         <div className="col-12">
                             <div className="copyright-info text-center">
                                 <p>
-                                    Copyright &copy; 2022 Made with{" "}
+                                    Copyright &copy; {year} Made with{" "}
                                     <i className="icofont-heart-alt"></i> By{" "}
                                     <a
                                         href="https://checkupdigitale.com"
