@@ -29,18 +29,15 @@ import "./assets/css/vendor/material-design-iconic.min.css";
 import "./assets/css/plugins/animate.min.css";
 import "./assets/scss/style.scss";
 
-function MyApp({ Component, pageProps }: AppProps) {
-    return (
-        <>
-            <Component {...pageProps} />
-            <Analytics />
-        </>
-    );
-}
-
-export default MyApp;
-
 const App = () => {
+    function MyApp({ Component, pageProps }: AppProps) {
+        return (
+            <>
+                <Component {...pageProps} />
+                <Analytics />
+            </>
+        );
+    }
     return (
         <Router>
             <AnimatedCursor color="47, 106, 177" />
