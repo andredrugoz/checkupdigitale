@@ -19,6 +19,7 @@ import BlogTag from "./templates/blog-tag";
 import BlogCategory from "./templates/blog-category";
 import ContactPage from "./pages/contact";
 import AnimatedCursor from "react-animated-cursor";
+import { Analytics } from '@vercel/analytics/react';
 import "swiper/components/navigation/navigation.scss";
 import "swiper/swiper.scss";
 import "./assets/css/vendor/metropolis.css";
@@ -27,6 +28,17 @@ import "./assets/css/vendor/font-awesome.css";
 import "./assets/css/vendor/material-design-iconic.min.css";
 import "./assets/css/plugins/animate.min.css";
 import "./assets/scss/style.scss";
+
+function MyApp({ Component, pageProps }: AppProps) {
+    return (
+        <>
+            <Component {...pageProps} />
+            <Analytics />
+        </>
+    );
+}
+
+export default MyApp;
 
 const App = () => {
     return (
