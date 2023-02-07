@@ -11,11 +11,11 @@ const Tos = () => {
         // prettier-ignore
         <React.Fragment>
             <Layout>
-                <SEO title="CheckupDigitale – Tos" />
+                <SEO title="CheckupDigitale – Termini e Condizioni" />
                 <div className="wrapper">
                     <Header />
                     <PageBanner
-                        title="TOS"
+                        title="Termini e Condizioni"
                         excerpt="A seguire i termini e condizioni accettati nel 
                         momento che si usufruisce dei servizi di checkupdigitale.com"
                         image="./images/faq/1.png"
