@@ -14,12 +14,18 @@
     {
         "id": 3,
         "thumb": "./images/team/4.png",
-        "name": "Leonardo",
-        "designation": "Videomaker"
+        "name": "Rocco",
+        "designation": "Responsabile Media"
     },
     {
         "id": 4,
         "thumb": "./images/team/11.png",
+        "name": "Leonardo",
+        "designation": "Videomaker"
+    },
+    {
+        "id": 5,
+        "thumb": "./images/team/5.png",
         "name": "Michele",
         "designation": "Development"
     },
