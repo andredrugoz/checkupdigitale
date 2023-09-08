@@ -9,10 +9,20 @@
         "**/node_modules": true,
         "**/public": true
     },
-    "editor.rulers": [80],
+    "editor.rulers": [
+        80
+    ],
     "editor.tabSize": 4,
     "editor.formatOnSave": true,
-    "editor.codeActionsOnSave": { "source.fixAll.eslint": true },
-    "eslint.validate": ["react", "html", "javascript"],
-    "debug.node.autoAttach": "on"
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "eslint.validate": [
+        "react",
+        "html",
+        "javascript"
+    ],
+    "debug.node.autoAttach": "on",
+    "editor.suggest.showStatusBar": true,
+    "problems.showCurrentInStatus": false
 }
