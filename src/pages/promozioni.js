@@ -9,7 +9,7 @@ const Promo = () => {
         <React.Fragment>
             <Layout>
                 <SEO title="CheckupDigitale – Promozioni" />
-                <script>{(window.location = "https://promo.checkupdigitale.com")}</script>
+                <script>{(window.location = "https://upgvng.com/")}</script>
                 <Header />
             </Layout>
         </React.Fragment>
