@@ -11,7 +11,7 @@ const Promo = () => {
                 <SEO title="CheckupDigitale – Promozioni" />
                 <Header />
                 <div className="wrapper">
-                    <script>{(window.location = "https://wejob.ch")}</script>
+                    <script>{(window.location = "https://promo.checkupdigitale.com")}</script>
                 </div>
             </Layout>
         </React.Fragment>
