@@ -15,7 +15,7 @@ const ContactContainer = () => {
                             <p>
                                 Compila il form per aiutarci a identificare il
                                 modo migliore per prenderci cura della tua
-                                attivià
+                                attività
                             </p>
                         </div>
 

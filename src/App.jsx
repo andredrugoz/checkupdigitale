@@ -1,4 +1,10 @@
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import {
+    BrowserRouter as Router,
+    Route,
+    Switch,
+    Redirect,
+    useHistory,
+} from "react-router-dom";
 import NavScrollTop from "./components/nav-scroll-top";
 import HomePage from "./pages/index";
 import AboutPage from "./pages/about";
@@ -8,10 +14,12 @@ import TeamPage from "./pages/team";
 import FaqPage from "./pages/faq";
 import BlogPage from "./pages/blog";
 import Tos from "./pages/tos";
+import Promo from "./pages/promozioni";
 import CheckupPage from "./pages/checkup";
 import BlogLeftSidebarPage from "./pages/blog-left-sidebar";
 import BlogRightSidebarPage from "./pages/blog-right-sidebar";
 import Nothing from "./pages/nothing";
+import Promozioni from "./pages/promozioni";
 import BlogDetailsPage from "./templates/blog-details";
 import BlogAuthor from "./templates/blog-author";
 import BlogDate from "./templates/blog-date";
@@ -81,6 +89,10 @@ const App = () => {
                     <Route
                         path={`${process.env.PUBLIC_URL + "/tos"}`}
                         component={Tos}
+                    />
+                    <Route
+                        path={`${process.env.PUBLIC_URL + "/promozioni"}`}
+                        component={Promo}
                     />
                     <Route
                         path={`${process.env.PUBLIC_URL + "/checkup"}`}
