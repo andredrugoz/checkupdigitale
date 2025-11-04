@@ -2,7 +2,7 @@
     {
         "id": 1,
         "thumb": "./images/team/1.png",
-        "name": "Dario",
+        "name": "qa",
         "designation": "Head of Idea"
     },
     {
@@ -26,8 +26,8 @@
     {
         "id": 5,
         "thumb": "./images/team/5.png",
-        "name": "Matilde",
-        "designation": "Graphics"
+        "name": "Davide",
+        "designation": "Video Maker"
     },
     {
         "id": 6,
@@ -38,8 +38,8 @@
     {
         "id": 7,
         "thumb": "./images/team/7.png",
-        "name": "Davide",
-        "designation": "Video Maker"
+        "name": "Matilde",
+        "designation": "Graphics"
     },
     {
         "id": 9,
