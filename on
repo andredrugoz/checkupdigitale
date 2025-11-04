@@ -1,0 +1,129 @@
+[1mdiff --git a/src/data/team.json b/src/data/team.json[m
+[1mindex 4a82fc3..e7446d9 100644[m
+[1m--- a/src/data/team.json[m
+[1m+++ b/src/data/team.json[m
+[36m@@ -1,62 +1,62 @@[m
+[31m-[[m
+[31m-    {[m
+[31m-        "id": 1,[m
+[31m-        "thumb": "./images/team/1.png",[m
+[31m-        "name": "Dario",[m
+[31m-        "designation": "Head of Idea"[m
+[31m-    },[m
+[31m-    {[m
+[31m-        "id": 2,[m
+[31m-        "thumb": "./images/team/3.png",[m
+[31m-        "name": "Andrea",[m
+[31m-        "designation": "CTO"[m
+[31m-    },[m
+[31m-    {[m
+[31m-        "id": 3,[m
+[31m-        "thumb": "./images/team/4.png",[m
+[31m-        "name": "Rocco",[m
+[31m-        "designation": "Responsabile Media"[m
+[31m-    },[m
+[31m-    {[m
+[31m-        "id": 4,[m
+[31m-        "thumb": "./images/team/11.png",[m
+[31m-        "name": "Leonardo",[m
+[31m-        "designation": "Videomaker"[m
+[31m-    },[m
+[31m-    {[m
+[31m-        "id": 5,[m
+[31m-        "thumb": "./images/team/5.png",[m
+[31m-        "name": "Michele",[m
+[31m-        "designation": "Development"[m
+[31m-    },[m
+[31m-    {[m
+[31m-        "id": 6,[m
+[31m-        "thumb": "./images/team/2.png",[m
+[31m-        "name": "Eleonora",[m
+[31m-        "designation": "Commerciale"[m
+[31m-    },[m
+[31m-    {[m
+[31m-        "id": 7,[m
+[31m-        "thumb": "./images/team/7.png",[m
+[31m-        "name": "Gaetano",[m
+[31m-        "designation": "Grafica"[m
+[31m-    },[m
+[31m-    {[m
+[31m-        "id": 9,[m
+[31m-        "thumb": "./images/team/9.png",[m
+[31m-        "name": "Bianca",[m
+[31m-        "designation": "Multimedia Art Designer"[m
+[31m-    },[m
+[31m-    {[m
+[31m-        "id": 10,[m
+[31m-        "thumb": "./images/team/10.png",[m
+[31m-        "name": "Filip",[m
+[31m-        "designation": "Influencer"[m
+[31m-    },[m
+[31m-    {[m
+[31m-        "id": 11,[m
+[31m-        "thumb": "./images/team/6.png",[m
+[31m-        "name": "Gil",[m
+[31m-        "designation": "Grafica"[m
+[31m-    }[m
+[32m+[m[32m[[m[41m[m
+[32m+[m[32m    {[m[41m[m
+[32m+[m[32m        "id": 1,[m[41m[m
+[32m+[m[32m        "thumb": "./images/team/1.png",[m[41m[m
+[32m+[m[32m        "name": "Dario",[m[41m[m
+[32m+[m[32m        "designation": "Head of Idea"[m[41m[m
+[32m+[m[32m    },[m[41m[m
+[32m+[m[32m    {[m[41m[m
+[32m+[m[32m        "id": 2,[m[41m[m
+[32m+[m[32m        "thumb": "./images/team/3.png",[m[41m[m
+[32m+[m[32m        "name": "Andrea",[m[41m[m
+[32m+[m[32m        "designation": "CTO"[m[41m[m
+[32m+[m[32m    },[m[41m[m
+[32m+[m[32m    {[m[41m[m
+[32m+[m[32m        "id": 3,[m[41m[m
+[32m+[m[32m        "thumb": "./images/team/4.png",[m[41m[m
+[32m+[m[32m        "name": "Mattia",[m[41m[m
+[32m+[m[32m        "designation": "Responsabile Media"[m[41m[m
+[32m+[m[32m    },[m[41m[m
+[32m+[m[32m    {[m[41m[m
+[32m+[m[32m        "id": 4,[m[41m[m
+[32m+[m[32m        "thumb": "./images/team/11.png",[m[41m[m
+[32m+[m[32m        "name": "Riccardo",[m[41m[m
+[32m+[m[32m        "designation": "Videomaker"[m[41m[m
+[32m+[m[32m    },[m[41m[m
+[32m+[m[32m    {[m[41m[m
+[32m+[m[32m        "id": 5,[m[41m[m
+[32m+[m[32m        "thumb": "./images/team/5.png",[m[41m[m
+[32m+[m[32m        "name": "Matilde",[m[41m[m
+[32m+[m[32m        "designation": "Graphics"[m[41m[m
+[32m+[m[32m    },[m[41m[m
+[32m+[m[32m    {[m[41m[m
+[32m+[m[32m        "id": 6,[m[41m[m
+[32m+[m[32m        "thumb": "./images/team/2.png",[m[41m[m
+[32m+[m[32m        "name": "Bakyt",[m[41m[m
+[32m+[m[32m        "designation": "Commerciale"[m[41m[m
+[32m+[m[32m    },[m[41m[m
+[32m+[m[32m    {[m[41m[m
+[32m+[m[32m        "id": 7,[m[41m[m
+[32m+[m[32m        "thumb": "./images/team/7.png",[m[41m[m
+[32m+[m[32m        "name": "Davide",[m[41m[m
+[32m+[m[32m        "designation": "Video Maker"[m[41m[m
+[32m+[m[32m    },[m[41m[m
+[32m+[m[32m    {[m[41m[m
+[32m+[m[32m        "id": 9,[m[41m[m
+[32m+[m[32m        "thumb": "./images/team/9.png",[m[41m[m
+[32m+[m[32m        "name": "Marco",[m[41m[m
+[32m+[m[32m        "designation": "Multimedia Art Designer"[m[41m[m
+[32m+[m[32m    },[m[41m[m
+[32m+[m[32m    {[m[41m[m
+[32m+[m[32m        "id": 10,[m[41m[m
+[32m+[m[32m        "thumb": "./images/team/10.png",[m[41m[m
+[32m+[m[32m        "name": "Luigi",[m[41m[m
+[32m+[m[32m        "designation": "Video Maker"[m[41m[m
+[32m+[m[32m    },[m[41m[m
+[32m+[m[32m    {[m[41m[m
+[32m+[m[32m        "id": 11,[m[41m[m
+[32m+[m[32m        "thumb": "./images/team/6.png",[m[41m[m
+[32m+[m[32m        "name": "Gabriele",[m[41m[m
+[32m+[m[32m        "designation": "Social Manger"[m[41m[m
+[32m+[m[32m    }[m[41m[m
+ ][m
+\ No newline at end of file[m
