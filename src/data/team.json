@@ -25,7 +25,7 @@
     },
     {
         "id": 5,
-        "thumb": "./images/team/5.png",
+        "thumb": "./images/team/11.png",
         "name": "Davide",
         "designation": "Video Maker"
     },
@@ -61,7 +61,7 @@
     },
     {
         "id": 11,
-        "thumb": "./images/team/11.png",
+        "thumb": "./images/team/5.png",
         "name": "Lave",
         "designation": "3D Specialist"
     }
